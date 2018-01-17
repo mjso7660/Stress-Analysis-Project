@@ -15,7 +15,7 @@ a = 1;
 plane_strain = 0;
 figure();
 
-[sig_e, X, Y, sig_max, x_peak, y_peak]=_func_sig_e(a,x_max,y_max, plane_strain, P, v);
+[sig_e, X, Y, sig_max, x_peak, y_peak]=project_func_sig_e(a,x_max,y_max, plane_strain, P, v);
 contour(Y,X,sig_e);
 set(gca, 'YDir','reverse');
 colormap spring;
