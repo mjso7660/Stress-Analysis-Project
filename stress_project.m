@@ -12,6 +12,7 @@ y_max=4; %canvas size 4 meters in both +y and -y directions
 
 %%
 a = 1;
+
 plane_strain = 0;
 figure();
 
