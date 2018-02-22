@@ -13,13 +13,15 @@ Consider a solid body with certain geometry, made of certain materials and suppo
 
 According to the principle of superposition, if multiple loadings σ_x^1,〖 σ〗_x^2,σ_x^3,… act on the body simultaneously, then solution is [σ_x^1+σ_x^2+σ_x^3+⋯]
 
-### Contour plot of σ_e in the free body diagram
+### Plots
+
+#### Contour plot of σ_e in the free body diagram
 
 ![Alt text](fig.jpg?raw=true "Title")
 
-### Contour plot of σ_e in the free body diagram by subtracting σ_e caused by plane strain from σ_e caused by plane stress
+#### Contour plot of σ_e in the free body diagram by subtracting σ_e caused by plane strain from σ_e caused by plane stress
 
 ![Alt text](fig2.jpg?raw=true "Title")
 
-### Contour plot of σ_e in the free body diagram
+#### Contour plot of σ_e in the free body diagram
 ![Alt text](fig3.jpg?raw=true "Title")
